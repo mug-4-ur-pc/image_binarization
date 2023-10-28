@@ -2,7 +2,7 @@
 This repo contains three simple image binarization algorithms:
 - [Otsu method](src/otsu.cpp)
 - [Unbalanced Otsu method](src/unbalanced_otsu.cpp)
-- [Kittler-Illingworth method](kittler.cpp)
+- [Kittler-Illingworth method](src/kittler.cpp)
 
 # Requirements
 - OpenMP
