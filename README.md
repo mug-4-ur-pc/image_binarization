@@ -6,7 +6,7 @@ This repo contains three simple image binarization algorithms:
 
 # Requirements
 - OpenMP
-- Magick++
+- OpenImageIO
 
 # Build
 ``` sh
